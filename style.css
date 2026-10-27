@@ -523,6 +523,8 @@ h1 {
 
 .fine-gallery {
     grid-column: 8 / span 4;
+    height: 150%;
+    width: 150%;
 }
 
 .fine-gallery img {
@@ -871,3 +873,4 @@ h1 {
         animation-iteration-count: 1 !important;
     }
 }
+
